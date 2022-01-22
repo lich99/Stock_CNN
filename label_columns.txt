@@ -1,0 +1,6 @@
+'Date': The last day of the 20-day rolling window for the chart.
+'StockID': CRSP PERMNO that identifies the stock.
+'MarketCap': Market capitalization in dollar, recorded in thousands.
+'Ret_{t}d': t=5,20,60, next t-day holding period return.
+'Ret_month': Holding period return for the next month, from the current monthend to the next monthend.
+'EWMA_vol': Exponentially weighted volatility (square of daily returns) with alpha as 0.05. One day delay is included.
