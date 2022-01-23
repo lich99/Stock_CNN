@@ -7,6 +7,7 @@ This is a PyTorch implementation of [**(Re-)Imag(in)ing Price Trends**](https://
 
 # Features
 
+- 2022/1/24: Upload pre-train model
 - 2022/1/24: Support performance analysis
 - 2022/1/23: Support tensorboard
 - 2022/1/23: Support multi-GPU training
