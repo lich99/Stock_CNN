@@ -1,5 +1,5 @@
 
-# Stock Image CNN - PyTorch Implementation
+# Stock Image CNN - PyTorch Implementation [Unofficial]
 
 This is a PyTorch implementation of [**(Re-)Imag(in)ing Price Trends**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3756587)
 
